@@ -7,7 +7,7 @@
 
 - 外部链接：[百度](http://www.baidu.com)
 - 内部链接1，链接仓库的其他文件：[demo1](Demo1.md)
-- 内部链接2，链接本文档的其他部分：[代码块 Demo](Demo2.md#代码块-demo)
+- 内部链接2，链接本文档的其他部分：[代码块 Demo](Demo2.md#代码块demo)
 
 ### 引用式链接
 
@@ -63,7 +63,7 @@ console.log(a)
 [百度]:http://www.baidu.com
 [baidu]:http://www.baidu.com
 [demo1]:Demo1.md
-[代码块 Demo]:Demo2.md#代码块-demo
+[代码块 Demo]:Demo2.md#代码块demo
 
 [baidu_logo]:https://www.baidu.com/img/bd_logo1.png?where=super
 [baidu_demo]:images/bd_logo1.png
