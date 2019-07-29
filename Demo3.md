@@ -56,6 +56,15 @@ task list
 - [ ] item 2
 - [x] item 3
 
+emoji: 表情符号
+
+	emoji code
+
+- :snake:
+- :smile:
+- :laughing:
+- :kissing_heart:
+	
 
 <!-- 本文档用到的url链接 -->
 [baidu_logo]:https://www.baidu.com/img/bd_logo1.png?where=super
