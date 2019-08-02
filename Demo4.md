@@ -51,8 +51,8 @@ low:
 ## 多级有序列表
 
 1. item 1  
-  1. item 1.1
-  2. item 1.2
+  1. item 
+  2. item 
 2. item 2  
 
   fsfs
