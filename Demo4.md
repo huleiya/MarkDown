@@ -50,15 +50,10 @@ low:
 
 ## 多级有序列表
 
-1. item 1  
-  1. item 
-  2. item 
-2. item 2  
-
-  fsfs
-
-3. item 3
-4. item 4
+1. 一级有序列表
+  1. 二级有序列表  
+    1. 三级有序列表
+ 
 
 <!-- 以下是本文中的链接 -->
 [baidu]:http://www.baidu.com
